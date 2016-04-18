@@ -1,0 +1,17 @@
+body {
+	font-size: 1px;
+	color: #fff;
+	background-color: #666;
+	font-family: 'Oxygen', sans-serif;
+}
+
+/**HEADER**/
+#header-nav {
+	background-color: #f6b319;
+	border-radius:0;
+	border:0;
+}
+
+div.navbar-brand h1 {
+	margin-top: -7px;
+}
