@@ -27,3 +27,6 @@ div.navbar-brand h1 {
     color: black;
  }
 
+div#title>h1 {
+	text-align: center;
+}
