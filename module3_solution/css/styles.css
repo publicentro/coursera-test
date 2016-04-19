@@ -29,4 +29,15 @@ div.navbar-brand h1 {
 
 div#title>h1 {
 	text-align: center;
+
 }
+
+section {
+	background-color: grey;
+
+}
+section h2 {
+	text-align: center;
+	color:#F6B319;
+}
+
