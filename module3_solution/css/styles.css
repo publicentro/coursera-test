@@ -3,6 +3,7 @@ body {
 	color: #fff;
 	background-color: #666;
 	font-family: 'Oxygen', sans-serif;
+	
 }
 
 /**HEADER**/
@@ -20,13 +21,35 @@ div.navbar-brand h1 {
     padding-top: 0px;
     padding-bottom: 0px;
     line-height: 20px;
-    border: 1px solid black;
+    border-top: 1px solid black;
     text-align: center;
  }
  .navbar-nav>li>a>h4 {
     color: black;
  }
 
-div#title>h1 {
+ ul#nav-list {
+    border-bottom: 1px solid black;
+}
+
+section{
+	
+	margin: 10px 0;
+}
+
+div.section-wraper {
+	background-color: grey;
+	padding:5px 20px;
+}
+section h2 {
 	text-align: center;
+	color:#F6B319;
+}
+
+a.back-to-top {
+	color:#E4B418;
+}
+
+a.back-to-top:hover {
+	color:white;
 }
